@@ -1,3 +1,5 @@
+load('config.js');
+
 function execute() {
     return Response.success([
         {title: "Mới cập nhật", input: BASE_URL + "", script: "cat.js"},
