@@ -7,10 +7,10 @@
      {
       "name": "U Mê Truyện",
       "author": "vBook",
-      "path": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/umetruyen/plugin.zip",
+      "path": "https://raw.githubusercontent.com/Gira306/vbook-ext/main/umetruyen/plugin.zip",
       "version": 10,
       "source": "https://umetruyenhay.com",
-      "icon": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/umetruyen/icon.png",
+      "icon": "https://raw.githubusercontent.com/Gira306/vbook-ext/main/umetruyen/icon.png",
       "description": "Đọc truyện trên trang U Mê Truyện",
       "type": "comic",
       "locale": "vi_VN"
