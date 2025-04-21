@@ -6,9 +6,9 @@
   "data": [
      {
       "name": "U Mê Truyện",
-      "author": "vBook",
+      "author": "Gira",
       "path": "https://raw.githubusercontent.com/Gira306/vbook-ext/main/umetruyen/plugin.zip",
-      "version": 10,
+      "version": 1.1,
       "source": "https://umetruyenhay.com",
       "icon": "https://raw.githubusercontent.com/Gira306/vbook-ext/main/umetruyen/icon.png",
       "description": "Đọc truyện trên trang U Mê Truyện",
