@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "name": "gaumeoteam",
+    "author": "Gira",
+    "version": 1.0,
+    "source": "https://gaumeoteam.com/",
+    "regexp": "(www.)?gaumeoteam.*?/[^/]+.html$",
+    "description": "Comic và Novel",
+    "locale": "vi_VN",
+    "language": "javascript",
+    "tag": "nsfw",
+    "type": "comic/novel"
+  },
+    "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "detail": "detail.js",
+    "search": "search.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+  }
