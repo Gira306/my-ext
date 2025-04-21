@@ -1,15 +1,15 @@
 {
   "metadata": {
-    "name": "gaumeoteam",
+    "name": "Gấu mèo team",
     "author": "Gira",
     "version": 1.0,
-    "source": "https://gaumeoteam.com/",
+    "source": "https://gaumeoteam.com",
     "regexp": "(www.)?gaumeoteam.*?/[^/]+.html$",
     "description": "Comic và Novel",
     "locale": "vi_VN",
     "language": "javascript",
     "tag": "nsfw",
-    "type": "comic/novel"
+    "type": "novel"
   },
     "script": {
     "home": "home.js",
