@@ -23,7 +23,7 @@
       "source": "https://gaumeoteam.com",
       "icon": "https://raw.githubusercontent.com/Gira306/vbook-ext/main/gaumeoteam/icon.png",
       "description": "Đọc truyện trên trang Gấu mèo team",
-      "type": "comic",
+      "type": "novel",
       "locale": "vi_VN"
     }
   ]
